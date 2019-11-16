@@ -1,0 +1,24 @@
+Elton John
+35.1175
+2.18981e+011
+
+John Cena
+35.1175
+56.9954
+
+Barrack Obama
+37.3333
+786.26
+
+John Rambo
+28
+403.59
+
+Hillary Clinton
+35.974
+1866.23
+
+Donald Trump
+39.5455
+897.27
+
